@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UI5 Application ui5renovate.test
 
 Insert the purpose of this project and some interesting info here...
@@ -85,3 +86,7 @@ npm run lint
 ## License
 
 This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
+=======
+# UI5RenovateUI5Con
+UI5 Renovate test
+>>>>>>> 91bb5c5d8defb2912c20ff3e72df95d0fea95b03
